@@ -12,7 +12,7 @@
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/neumanf/grammy-vercel-boilerplate.git"
+        "url": "git+https://github.com/hidarfaqeeh/Autoforward.git"
     },
     "keywords": [
         "boilerplate",
@@ -24,9 +24,9 @@
     "author": "neumanf",
     "license": "MIT",
     "bugs": {
-        "url": "https://github.com/neumanf/grammy-vercel-boilerplate/issues"
+        "url": "git+https://github.com/hidarfaqeeh/Autoforward.git"
     },
-    "homepage": "https://github.com/neumanf/grammy-vercel-boilerplate#readme",
+    "homepage": "https://github.com/hidarfaqeeh/Autoforward#readme",
     "dependencies": {
         "@grammyjs/conversations": "^1.1.1",
         "axios": "^1.5.0",
